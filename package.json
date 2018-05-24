@@ -1,0 +1,15 @@
+{
+  "name": "dd-ll-reverse",
+  "version": "1.0.0",
+  "description": "reverses a linked",
+  "main": "dd-linked-list-reverse.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "author": "deaton_dev",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^22.4.4"
+  }
+}
