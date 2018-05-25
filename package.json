@@ -1,7 +1,7 @@
 {
-  "name": "dd-ll-reverse",
+  "name": "linked-list-reverse",
   "version": "1.0.0",
-  "description": "reverses a linked",
+  "description": "reverses a linked list",
   "main": "dd-linked-list-reverse.js",
   "scripts": {
     "test": "jest",
