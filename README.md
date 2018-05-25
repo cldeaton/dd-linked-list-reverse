@@ -24,7 +24,7 @@ const print = require('linked-list-print');
 const c = {
   value: 'c',
   next: undefined,
-},
+}
 
 const b = {
   value: 'b',
@@ -34,7 +34,7 @@ const b = {
 const a = {
   value: 'a',
   next: b,
-};
+}
 
 
 print(a);
